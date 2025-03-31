@@ -1,0 +1,203 @@
+body {
+    background-color: #CCCCCC;
+    margin: 0;
+    padding: 0;
+}
+
+.container-1 {
+    padding: 100px;
+    height: 550px;
+    position: relative;
+    background-color: #e4f9f5;
+    width: 84%;
+    margin: 20px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 15%;
+    top: 50px;
+    width: 150px;
+    height: auto;
+}
+
+.the-text {
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.name {
+    margin-bottom: 5px;
+    font-size: 60px;
+    font-family: Dancing script;
+    color: #66bfbf;
+}
+
+h2 {
+    margin-top: 0px;
+    font-size: 35px;
+    font-family: Playfair Display;
+    color: #66bfbf;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 15%;
+    top: 470px;
+    width: 150px;
+    height: auto;
+}
+
+.mountain {
+    position: absolute;
+    top: 500px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 300px;
+    height: auto;
+    max-width: 80%;
+}
+
+.profile-picture {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    margin-top: 30px;
+}
+
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.hello {
+    font-size: 45px;
+    color: #638484;
+}
+
+.intro {
+    font-size: 30px;
+    width: 550px;
+    font-family: lobster;
+    padding-left: 65px;
+}
+
+.container-3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 90px;
+}
+
+.skills {
+    color: #638484;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.typing, .chillies {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.cat,.red-chilli {
+    height: 300px;
+    width: 300px;
+    padding-left: 100px;
+}
+
+.coding, .hot-wings {
+    padding-left: 70px;
+}
+
+h3 {
+    font-family: Josefin Sans;
+    font-size: 30px;
+}
+
+.experience, .text-3 {
+    font-family: Playfair Display;
+    width: 550px;
+}
+
+.container-4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+}
+
+.get-1 {
+    color: #638484;
+}
+
+.text-4 {
+    width: 450px;
+    font-size: 25px;
+    font-family: playfair display;
+}
+
+.btn {
+    height: 55px;
+    width: 200px;
+    background-color: #11CDD4;
+    border: none;
+    border-radius: 9px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.container-5 {
+    height: 250px;
+    margin-top: 150px;
+    background-color: #66BFBF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.links {
+    display: flex;
+    gap: 20px;
+}
+
+.website {
+    text-decoration: none;
+    color: #11999E;
+    font-size: 19px;
+}
+
+.text-5 {
+    font-size: 19px;
+}
+
